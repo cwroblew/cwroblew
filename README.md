@@ -1,5 +1,17 @@
 ## Hi there 👋
-
+🌱 I’m currently learning:
+  <ol>
+    <li>Python</li>
+    <li>Laravel</li>
+    <li>GitHub</li>
+  </ol>
+  I'm currently Upgrading:
+  <ol>
+    <li>PHP</li>
+    <li>Javascrip</li>
+    <li>Web Development</li>
+    <li>Databases</li>
+  </ol>
 <!--
 **cwroblew/cwroblew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
